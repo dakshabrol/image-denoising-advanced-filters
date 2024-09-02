@@ -12,7 +12,7 @@ This repository contains the essential code and resources for our project. Below
 
 - **`functions/`**: This folder includes all the functions required to run both `main.m` and `main2.m`. These functions are critical for the overall operation of the code.
 
-- **`images/`**: This folder contains all the images that have undergone image processing. These images are essential for visualizing the results of our analysis.
+- **`sample-images/`**: This folder contains all the images that have undergone image processing. These images are essential for visualizing the results of our analysis.
 
 ## Getting Started 🚀
 
