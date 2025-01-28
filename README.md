@@ -80,7 +80,3 @@ We aim to expand this project by:
 ## 📚 References
 
 The project report includes a curated list of references to research papers and articles that provide the theoretical background and implementation details for the filters used in this project.
-
----
-
-Feel free to contribute, report issues, or suggest improvements! Happy coding! 🎉
